@@ -1,5 +1,4 @@
 function diagonalDifference(arr) {
-  // Write your code here
   let leftDigonal = 0;
   let rightDigonal = 0;
   let x = 0;

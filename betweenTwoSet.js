@@ -1,3 +1,7 @@
+// all the factors of the lastElement of a  and add into a new array;
+// between last ele of a to first ele of b;
+// find the number of ele of new Array which is divisible by all the elements of a and b;
+
 function getTotalX(a, b) {
   let firstVal = a[a.length - 1];
   let secondVal = b[0];
